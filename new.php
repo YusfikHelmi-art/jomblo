@@ -1,6 +1,6 @@
 echo "\n";
 echo "\n".color("yellow","!]
-        echo "\e[92m--------------------------------------------------\n";
+        echo "\e[92m-----------------------------------------------------\n";
         echo "\e[92m|              SCRIPT BY YUSFIK HELMI               |\n";
         echo "\e[92m|             OFFICIAL DARK FORCE ARMY 	        |\n";
         echo "\e[92m|       THANK TO mr.Ikiganteng & mr.Yusfik Helmi    |\n";
